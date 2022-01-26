@@ -1,0 +1,12 @@
+Filename,Detection Type,Axial Length,Pixels per Degree,Total Number of Cones,Auto Only Cone Density,Number of Auto Cones,Auto+Manual Cone Density,Number of Manually added Cones
+Test1-Montage_-0.7435_-0.7435_4.1362_100_100.tif,Auto + Manual,24,410,146,14669,149,14373,-3
+Test1-Montage_-0.8533_-0.8533_5.124_100_100.tif,Auto + Manual,24,410,140,15555,158,13783,-18
+Test1-Montage_-0.4125_-0.4125_1.2594_100_100.tif,Auto + Manual,24,410,277,27270,277,27270,0
+"Test1-Montage_-0.1137_-0.1137_0.5579_50_50.tif","Auto + Manual",24,410,86,31783,83,32932,3
+"Test1-Montage_-0.3739_-0.3739_1.0594_50_50.tif","Auto + Manual",24,410,73,28747,73,28747,0
+"Test1-Montage_-0.5021_-0.5021_2.0435_100_100.tif","Auto + Manual",24,410,229,22544,229,22544,0
+"Test1-Montage_-0.3045_-0.3045_1.1289_100_100.tif","Auto + Manual",24,410,289,28451,289,28451,0
+"Test1-Montage_-0.2826_-0.2826_0.7191_100_100.tif","Auto + Manual",24,410,320,31503,320,31503,0
+"Test1-Montage_-0.2454_-0.2454_1.5876_100_100.tif","Auto + Manual",24,410,254,25006,254,25006,0
+"Test1-Montage_-0.2606_-0.2606_0.2947_100_100.tif","Auto + Manual",24,410,309,29928,304,30420,5
+"Test1-Montage_-0.2625_-0.2625_1.16_100_100.tif","Auto + Manual",24,410,291,28747,292,28648,-1

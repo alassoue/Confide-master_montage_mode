@@ -1,0 +1,4 @@
+"Filename","Number of Cells","Cell Density (cells/mm^2)","Mean N-N (um)","Cropped Coordinate Area (um^2)","Mean Voronoi Cell Area (um^2)","Number of Bounded Cells","Total Voronoi Area (um^2)","DRP Spacing (um)"
+"Test1-Montage_-0.7453_4.1745_100_100_coords.txt",150,14767,6.6279,10158,64.337,111,7141.4,9.7946
+"Test1-Montage_-0.577_2.455_100_100_coords.txt",198,19493,5.9271,10158,48.079,150,7211.8,7.3815
+"Test1-Montage_-0.7892_5.0745_100_100_coords.txt",124,12207,7.6409,10158,77.245,87,6720.3,10.504

@@ -1,0 +1,5 @@
+"Filename","Detection Type","Axial Length","Pixels per Degree","Total Number of Cones","Auto Only Cone Density","Number of Auto Cones","Auto+Manual Cone Density","Number of Manually added Cones",
+"Test1-Montage_-0.7453_4.1745_100_100.tif","Auto + Manual",24,410,150,14767,150,14767,0
+"Test1-Montage_-0.7453_4.1745_100_100.tif","Auto + Manual",24,410,150,14767,150,14767,0
+"Test1-Montage_-0.577_2.455_100_100.tif","Auto + Manual",24,410,198,19493,198,19493,0
+"Test1-Montage_-0.7892_5.0745_100_100.tif","Auto + Manual",24,410,124,14176,144,12207,-20

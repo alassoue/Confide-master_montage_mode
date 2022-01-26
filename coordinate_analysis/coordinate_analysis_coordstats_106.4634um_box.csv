@@ -1,0 +1,3 @@
+"Filename","Number of Cells","Cell Density (cells/mm^2)","Mean N-N (um)","Cropped Coordinate Area (um^2)","Mean Voronoi Cell Area (um^2)","Number of Bounded Cells","Total Voronoi Area (um^2)","DRP Spacing (um)"
+"Test1-Montage.tif_-0.7415_5.0329_cropped_coords.txt",239,17284,5.0086,13828,45.475,193,8776.7,7.0266
+"Test1-Montage.tif_-0.7415_5.0329_cropped_coords.txt",133,9618.1,7.8444,13828,84.407,97,8187.5,10.646
